@@ -53,6 +53,7 @@ function printNumSort() {
   for (var i = 0; i < numSort.length; i++) {
     let li = document.createElement("li");
     li.append(numSort[i]);
+    li.classList.add("result");
     document.getElementById('NumSort').append(li);
   }
 }
