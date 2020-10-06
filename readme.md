@@ -70,7 +70,7 @@ function addToList(num, pos){
 Tela 1: Tela de abertura.
 ![Tela 1](/imagens/tela1.png)
 Tela 2: 6 números sorteados.
-![](/imagens/tela1.png)
+![](/imagens/tela2.png)
 #### Referências
 * HTML: [Wikipedia](https://pt.wikipedia.org/wiki/HTML)
 * CSS: [Wikipedia](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
